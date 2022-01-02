@@ -1,0 +1,6 @@
+export const addNum = 'addNum'
+export const subNum = 'subNum'
+export const decreaseNum = 'decreaseNum'
+export const increaseNum = 'increaseNum'
+export const CHANGE_LIST = 'changeList'
+export const FETCH_HOME_MULTIDATA = 'FETCH_HOME_MULTIDATA'
